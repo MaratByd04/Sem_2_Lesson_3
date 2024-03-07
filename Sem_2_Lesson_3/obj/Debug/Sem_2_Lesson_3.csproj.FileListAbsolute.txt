@@ -1,0 +1,13 @@
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\bin\Debug\Sem_2_Lesson_3.exe.config
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\bin\Debug\Sem_2_Lesson_3.exe
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\bin\Debug\Sem_2_Lesson_3.pdb
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\obj\Debug\Sem_2_Lesson_3.csproj.AssemblyReference.cache
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\obj\Debug\Sem_2_Lesson_3.Properties.Resources.resources
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\obj\Debug\Sem_2_Lesson_3.csproj.GenerateResource.cache
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\obj\Debug\Sem_2_Lesson_3.csproj.CoreCompileInputs.cache
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\obj\Debug\Sem_2_Lesson_3.exe
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\obj\Debug\Sem_2_Lesson_3.pdb
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\obj\Debug\Sem_2_Lesson_3.Form1.resources
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Я\Documents\сын прогер горе в семье\Sem_2_Lesson_3\Sem_2_Lesson_3\obj\Debug\Sem_2_Lesson_3.csproj.CopyComplete

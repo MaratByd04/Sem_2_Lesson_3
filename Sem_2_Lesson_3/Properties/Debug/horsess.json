@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Барон",
+    "Age": 5,
+    "Vaccinated": true,
+    "Color": "Вороной",
+    "Speed": "100 км/ч"
+  },
+  {
+    "Name": "Кельпи",
+    "Age": 8,
+    "Vaccinated": true,
+    "Color": "Белая",
+    "Health": "Отличное здоровье"
+  },
+  {
+    "Name": "Буцефал",
+    "Age": 6,
+    "Vaccinated": false,
+    "Color": "Бордовый в яблоках",
+    "Title": "Чемпион выставок"
+  }
+]
